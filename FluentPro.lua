@@ -4637,7 +4637,6 @@ local aa = {
                                     end
                                     return table.unpack(children)
                                 end)()
-                                }
                             )
                         }
                     ),
